@@ -1,7 +1,7 @@
 ---
 content_type: page
 description: This page presents information on how 12.006 was taught in Fall 2022.
-draft: true
+draft: false
 title: Instructor Insights
 uid: 9e991fa4-b74f-4b85-8734-2f50060dfa05
 ---
