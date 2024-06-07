@@ -36,6 +36,7 @@
     "website": "nonlinear-dynamics-chaos"
   },
   "course_title": "Nonlinear Dynamics: Chaos",
+  "hide_download": false,
   "course_description": "This course provides an introduction to nonlinear dynamics and chaos in dissipative systems. The content is structured to be of general interest to undergraduates in science and engineering. The course concentrates on simple models of dynamical systems, mathematical theory underlying their behavior, their relevance to natural phenomena, and methods of data analysis and interpretation. The emphasis is on nonlinear phenomena that may be described by a few variables that evolve with time.",
   "department_numbers": [
     "12",
@@ -51,7 +52,8 @@
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets",
-    "Projects"
+    "Projects",
+    "Instructor Insights"
   ],
   "site_uid": "464baf39-cad8-4914-a452-4a20489b4746",
   "site_short_id": "12.006-fall-2022"
