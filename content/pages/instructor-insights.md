@@ -46,7 +46,7 @@ Nonlinear systems exhibit much surprising, non-intuitive behavior, so learning h
 
 ### Requirements Satisfied
 
-- 12.006J can be applied toward a [Bachelor of Science in Earth, Atmospheric, and Planetary Sciences with a concentration in Planetary Science and Astronomy](https://twelve.mit.edu/mitcourse12/degree-chart/), but is not required.
+- 12.006J can be applied toward a [Bachelor of Science in Earth, Atmospheric, and Planetary Sciences with a concentration in Planetary Science and Astronomy](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/), but is not required.
 - 12.006J can be applied toward a [Bachelor of Science in Mechanical Engineering](http://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/), but is not required.
 - 12.006J can be applied toward a [Bachelor of Science in Mathematics with a concentration in Applied Mathematics](https://math.mit.edu/academics/undergrad/major/course18/applied.html), but is not required.
 

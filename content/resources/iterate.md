@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/12-006j-nonlinear-dynamics-chaos-fall-2022/iterate.m
+file_size: 570
 file_type: text/x-objcsrc
 image_metadata:
   caption: ''
