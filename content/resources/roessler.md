@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/12-006j-nonlinear-dynamics-chaos-fall-2022/roessler.py
+file: /ol-ocw-studio-app/courses/12-006j-nonlinear-dynamics-chaos-fall-2022/roessler.py
 file_size: 1118
 file_type: text/x-python-script
 image_metadata:
