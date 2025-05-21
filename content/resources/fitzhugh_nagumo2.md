@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/12-006j-nonlinear-dynamics-chaos-fall-2022/fitzhugh_nagumo.m
+file: courses/nonlinear-dynamics-chaos/fitzhugh_nagumo.m
 file_size: 1098
 file_type: text/x-objcsrc
 image_metadata:
