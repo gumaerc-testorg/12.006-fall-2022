@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/12-006j-nonlinear-dynamics-chaos-fall-2022/superstable.py
+file: courses/nonlinear-dynamics-chaos/superstable.py
 file_size: 602
 file_type: text/x-python-script
 image_metadata:

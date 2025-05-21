@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/12-006j-nonlinear-dynamics-chaos-fall-2022/fft_demo.m
+file: courses/nonlinear-dynamics-chaos/fft_demo.m
 file_size: 498
 file_type: text/x-objcsrc
 image_metadata:
