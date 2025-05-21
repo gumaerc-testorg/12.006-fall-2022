@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/12-006j-nonlinear-dynamics-chaos-fall-2022/vanderpol.py
+file: courses/nonlinear-dynamics-chaos/vanderpol.py
 file_size: 1135
 file_type: text/x-python-script
 image_metadata:
