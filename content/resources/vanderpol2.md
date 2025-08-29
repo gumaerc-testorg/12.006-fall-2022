@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/nonlinear-dynamics-chaos/vanderpol.m
+file: /ol-ocw-studio-app/courses/12-006j-nonlinear-dynamics-chaos-fall-2022/vanderpol.m
 file_size: 783
 file_type: text/x-objcsrc
 image_metadata:

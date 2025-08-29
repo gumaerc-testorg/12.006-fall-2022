@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/nonlinear-dynamics-chaos/henon.m
+file: /ol-ocw-studio-app/courses/12-006j-nonlinear-dynamics-chaos-fall-2022/henon.m
 file_size: 544
 file_type: text/x-objcsrc
 image_metadata:
