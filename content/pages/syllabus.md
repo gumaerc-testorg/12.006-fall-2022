@@ -12,7 +12,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 
 ## Prerequisites
 
-([*8.02 Physics II: Electricity And Magnetism*](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/) or *8.021 Physics II: Electricity And Magnetism* or [*8.022 Physics II: Electricity And Magnetism*](https://ocw.mit.edu/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/)) and ([*18.03 Differential Equations*](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/) or *18.032 Differential Equations*)
+({{% resource_link "48413994-9fae-4a8e-a9be-bd7b289ea1f7" "*8.02 Physics II: Electricity And Magnetism*" %}} or *8.021 Physics II: Electricity And Magnetism* or {{% resource_link "fbcdd2aa-f965-4f2f-98dd-5b391979887f" "*8.022 Physics II: Electricity And Magnetism*" %}}) and ({{% resource_link "8812c6ac-b019-4220-b56c-5a0aff6d5b95" "*18.03 Differential Equations*" %}} or *18.032 Differential Equations*)
 
 Knowledge of ordinary differential equations is essential. Some linear algebra (knowledge of eigenvectors and eigenvalues) is also necessary. Having some experience with numerical computation is helpful but not necessary.
 
@@ -35,7 +35,7 @@ Among the many books on nonlinear dynamics and chaos, you may ﬁnd it interesti
 - Berge, P., Y. Pomeau, and C. Vidal. *Order within Chaos: Towards a Deterministic Approach to Turbulence.* Wiley-VCH, 1987. ISBN: 9780471849674. (An undergraduate-level physical introduction to the subject.) 
 - Cross, M. and H. Greenside. *Pattern Formation and Dynamics in Nonequilibrium Systems*. Cambridge University Press, 2009. ISBN: 9780521770507.
 - Cvitanovic, P. *Universality in Chaos.* Adam Hilger, Ltd., 1989. ISBN: 9780852747650. (Contains reprints of a number of original research papers in the ﬁeld.) 
-- Cvitanovic, P., R. Artuso, R. Mainieri, G. Tanner, and G. Vattay. [*Chaos: Classical and Quantum* (PDF - 8.4 MB)](https://chaosbook.org/chapters/ChaosBook.pdf) 
+- Cvitanovic, P., R. Artuso, R. Mainieri, G. Tanner, and G. Vattay. {{% resource_link "ed37b579-e03c-4606-950e-5031450e9858" "*Chaos: Classical and Quantum* (PDF - 8.4 MB)" %}} 
 - Gleick, J. *Chaos*. Viking Books, 1987. ISBN: 9780749386061. (An excellent popular introduction.) 
 - Guckenheimer, J. and P. Holmes, *Nonlinear Oscillations, Dynamical Systems, and Bifurcations of Vector Fields.* Springer, 1983. ISBN: 9780387908199. (A graduate-level applied mathematics textbook.)
 - Schuster, H. and W. Just. *Deterministic Chaos: An Introduction*, 4<sup>th</sup> edition. Wiley-VCH, 2005. ISBN: 9783527404155. (An advanced book of interest to physicists.)
