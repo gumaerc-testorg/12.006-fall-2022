@@ -41,14 +41,14 @@ Nonlinear systems exhibit much surprising, non-intuitive behavior, so learning h
 
 ### Prerequisites
 
-- {{% resource_link "48413994-9fae-4a8e-a9be-bd7b289ea1f7" "*8.02 Physics II: Electricity And Magnetism*" %}}*, 8.021 Physics II: Electricity And Magnetism,* or {{% resource_link "fbcdd2aa-f965-4f2f-98dd-5b391979887f" "*8.022 Physics II: Electricity And Magnetism*" %}}
-- {{% resource_link "8812c6ac-b019-4220-b56c-5a0aff6d5b95" "*18.03 Differential Equations*" %}} or *18.032 Differential Equations*
+- [*8.02 Physics II: Electricity And Magnetism*](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/)*, 8.021 Physics II: Electricity And Magnetism,* or [*8.022 Physics II: Electricity And Magnetism*](https://ocw.mit.edu/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/)
+- [*18.03 Differential Equations*](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/) or *18.032 Differential Equations*
 
 ### Requirements Satisfied
 
-- 12.006J can be applied toward a {{% resource_link "93fa15c5-cb0a-4108-a26f-59a4d376765f" "Bachelor of Science in Earth, Atmospheric, and Planetary Sciences with a concentration in Planetary Science and Astronomy" %}}, but is not required.
-- 12.006J can be applied toward a {{% resource_link "3012dee9-60f7-4222-9152-b3f1b502f3b3" "Bachelor of Science in Mechanical Engineering" %}}, but is not required.
-- 12.006J can be applied toward a {{% resource_link "e35f5a97-a3e6-4156-8e80-7e737f4b9226" "Bachelor of Science in Mathematics with a concentration in Applied Mathematics" %}}, but is not required.
+- 12.006J can be applied toward a [Bachelor of Science in Earth, Atmospheric, and Planetary Sciences with a concentration in Planetary Science and Astronomy](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/), but is not required.
+- 12.006J can be applied toward a [Bachelor of Science in Mechanical Engineering](http://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/), but is not required.
+- 12.006J can be applied toward a [Bachelor of Science in Mathematics with a concentration in Applied Mathematics](https://math.mit.edu/academics/undergrad/major/course18/applied.html), but is not required.
 
 ### Offered
 
